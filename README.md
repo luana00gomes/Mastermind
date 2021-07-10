@@ -1,4 +1,5 @@
 # Mastermind
+Jogo Mastermind, clássico dos tabuleiros, desenvolvido em C++ para a disciplina de Programação 3 no semestre 2019.1.
 
 <h2>Como compilar e rodar</h2>
 <ul>
